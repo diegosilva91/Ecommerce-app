@@ -46,3 +46,11 @@ Create package.json, webpack.config.js and add node_modules to .gitignore
 ````
 composer require symfony/webpack-encore-pack
 ````
+Add react dependencies
+````
+yarn add --dev react react-dom prop-types babel-preset-react
+````
+Install axios package
+````
+yarn add axios reactstrap --save
+````
